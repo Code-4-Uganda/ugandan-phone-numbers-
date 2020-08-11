@@ -1,15 +1,28 @@
 {
   "name": "ugandan-numbers",
   "version": "1.0.0",
-  "description": "A minimalist package to validate Ugandan phone numbers ",
+  "description": "A minimalist package to validate Ugandan phone numbers using Regular Expressions ",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=12.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git-https://github.com/morelmiles/ugandan-phone-numbers"
   },
   "keywords": [
-    "\u001b[A\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C",
-    "https://github.com/morelmiles/ugandan-phone-nummber"
+    "Regular Expressions",
+    "ug",
+    "number",
+    "phone numbers",
+    "Uganda"
   ],
-  "author": "\u001b[Luigi Morel",
-  "license": "MIT "
+  "author": "Luigi  Morel",
+  "license": "MIT ",
+  "devDependencies": {
+    "mocha": "^8.0.1"
+  }
 }
