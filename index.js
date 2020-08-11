@@ -20,7 +20,7 @@ function isValidNumber(n) {
     firstChar = n.substring(0, 1);
 
     //   Users may input a 0 before the number or not.
-    //  Either way supply missing leading 0
+    //  Either way add the missing 0 at the start of the number
 
     number = firstChar === "0" ? n : "0" + n;
   } else {
