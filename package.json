@@ -1,13 +1,13 @@
 {
   "name": "ugandan-numbers",
   "version": "1.0.0",
-  "description": "A minimalist package to validate Ugandan phone numbers using Regular Expressions ",
+  "description": "A minimalist package for validating Ugandan phone numbers using Regular Expressions ",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "engines": {
-    "node": ">=12.0.1"
+    "node": ">=12.18.3"
   },
   "repository": {
     "type": "git",
@@ -20,6 +20,10 @@
     "phone numbers",
     "Uganda"
   ],
+  "bugs": {
+    "url": "https://github.com/Udokah/ugandan-phone-number/issues"
+  },
+  "homepage": "https://github.com/Udokah/ugandan-phone-number#readme",
   "author": "Luigi  Morel",
   "license": "MIT ",
   "devDependencies": {
