@@ -28,5 +28,5 @@ function isValidNumber(n) {
   }
 
   //   Remove all the white space before running the tests
-  return regexPattern.test(number.replace(/\s+/g, ""));
+  return regexPattern.match(number.replace(/\s+/g, ""));
 }
