@@ -54,6 +54,10 @@ ugandanNumber.isValid(0281254565); // false
 This package has been made after an inspiration from [Udokah's Naija PhoneNumber](https://github.com/Udokah/naija-phone-number)
 
 
+### Reporting bugs 
+You can create a new issue for a abug that you noticed here [Report issue](https://github.com/CodeForUganda/ugandan-phone-numbers-/issues)
+
+
 ### Licence
 
 MIT 

@@ -27,6 +27,8 @@
   "author": "Luigi  Morel",
   "license": "MIT ",
   "devDependencies": {
+    "eslint": "^7.9.0",
     "mocha": "^8.0.1"
-  }
+  },
+  "dependencies": {}
 }
