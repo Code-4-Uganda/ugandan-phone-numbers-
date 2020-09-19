@@ -6,12 +6,12 @@ A minimalist package for validating Ugandan phone numbers using Regular Expressi
 ### Installation 
 
 ```
-$ npm install ugandan-phone-number --save
+$ npm install ugandan-numbers --save
 ```
 or 
 
 ```
-yarn add ugandan-phone-number
+yarn add ugandan-numbers
 ```
 
 ### Usage 
