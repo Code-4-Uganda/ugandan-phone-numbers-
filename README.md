@@ -30,7 +30,7 @@ Here is the implementation:
 
 ```js
 
-const ugandanNumber = require('ugandan-phone-number');
+const ugandanNumber = require('ugandan-numbers');
 
 let phoneNumberField = document.querySelector('#phone-input').value;
 
