@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git-https://github.com/morelmiles/ugandan-phone-numbers-.git"
+    "url": "git-https://github.com/CodeForUganda/ugandan-phone-numbers-"
   },
   "keywords": [
     "Regular Expressions",
@@ -21,9 +21,9 @@
     "Uganda"
   ],
   "bugs": {
-    "url": "https://github.com/morelmiles/ugandan-phone-numbers-/issues"
+    "url": "https://github.com/CodeForUganda/ugandan-phone-numbers-/issues"
   },
-  "homepage": "https://github.com/morelmiles/ugandan-phone-numbers-#readme",
+  "homepage": "https://github.com/CodeForUganda/ugandan-phone-numbers-#readme",
   "author": "Luigi  Morel",
   "license": "MIT ",
   "devDependencies": {
