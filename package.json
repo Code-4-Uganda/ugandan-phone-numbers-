@@ -1,6 +1,6 @@
 {
   "name": "ugandan-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A minimalist package for validating Ugandan phone numbers using Regular Expressions ",
   "main": "index.js",
   "scripts": {
