@@ -1,7 +1,7 @@
 module.exports = { isValidNumber };
 
 /**
- * @param, {string}  n
+ * @param {string}  n
  * @return {Boolean}
  */
 
