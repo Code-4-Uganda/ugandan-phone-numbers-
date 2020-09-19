@@ -8,7 +8,7 @@ module.exports = { isValidNumber };
 function isValidNumber(n) {
   var firstCharacter;
   var number;
-  var regexPattern = /^([0]{1})([7-9]{1})([0|1]{1})([\d]{1})([\d]{7,8})$/g;
+  var regexPattern = /^([0]{1})([2-8]{1})([\d]{2})([\s]?)([\d]{6})$/g;
 
   if (!n || n.length < 5) return false;
 
